@@ -1,1 +1,5 @@
-hi i hate myself
+layout: page
+title: "CV"
+permalink: /about/CV
+
+## i hate myself
